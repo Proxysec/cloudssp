@@ -12,8 +12,8 @@
 ## Exploiting
 
 ```bash
-requires > python3
-requires > requests module
+requires > Python3 with requests version 2.19.1.
+
 ```
 
 ```bash
