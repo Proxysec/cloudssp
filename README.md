@@ -1,7 +1,8 @@
 ## Exploiting
 
 ```bash
-requires > Python3 with requests version 2.19.1.
+requires > Python3 with requests 
+requires > pip3 install requests --upgrade
 
 ```
 
