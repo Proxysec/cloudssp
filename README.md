@@ -1,4 +1,3 @@
-# cloudssp
 ## Exploiting
 
 ```bash
