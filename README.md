@@ -3,6 +3,7 @@
 ```bash
 requires > Python3 with requests 
 requires > pip3 install requests --upgrade
+requires  > BeautifulSoup
 
 ```
 
